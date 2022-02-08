@@ -1,4 +1,5 @@
 # LAB3
+<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
@@ -38,10 +39,10 @@ All children, except one, grow up. They soon know that they will grow up, and th
 
 
 
-<b>Text excerpts from: Project Gutenberg (link to <a href="url">http://www.gutenberg.org)</a> </b>
+<b>Text excerpts from: Project Gutenberg (link to <a href="http://www.gutenberg.org")></a> </b>
 
 <li><b>Mitzi Haro </b></li>
 <li><b>ITMD-361</b></li>
-<li><b>Lab 3</b></li>
+<li><b>Lab 2</b> </li>
 	</body>
 </html>
